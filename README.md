@@ -1,3 +1,3 @@
 # GymFitness
 
-A web Portfolio page that seeks to encompass the various modules learnt.
+A landing page created using HTML, CSS, Bootsrap, and JS Query
